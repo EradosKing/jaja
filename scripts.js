@@ -1,4 +1,4 @@
-var listaDeAdjetivos = [" carpinchito bebé", ' pingüinito', ' besito de la Vale', ' besito tuyo',"pedacito del cielo","pollito amarillo", "pan con miel", "algodón dulce con forma de carpinchito", "mensaje tuyo", "videito de los que me mandas siempre", "Oh no!", "bichito"];
+var listaDeAdjetivos = [" carpinchito bebé", ' pingüinito', ' besito de la Vale', ' besito tuyo',"pedacito del cielo","pollito amarillo", "pan con miel", "algodón dulce con forma de carpinchito", "mensaje tuyo", "videito de los que me mandas siempre", "Oh no!", "bichito","manso pa las balas"];
 var divAdjetivos = document.getElementById("div_adjetivo");
 var mensaje = document.getElementById("adjetivo");
 function randomAd(listaDeAdjetivos) {
